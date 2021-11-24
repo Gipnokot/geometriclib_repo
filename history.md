@@ -1,8 +1,8 @@
-git clone https://github.com/smartiqaorg/geometric_lib
-cd geometric_lib
-git checkout develop
-git log --all --pretty=oneline --graph
-git checkout future
+git clone https://github.com/smartiqaorg/geometric_lib;
+cd geometric_lib;
+git checkout develop;
+git log --all --pretty=oneline --graph;
+git checkout future;
 git log --all --pretty=oneline --graph
 git checkout main
 git merge --no-ff develop
