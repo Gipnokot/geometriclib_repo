@@ -1,3 +1,9 @@
+# Отчет о проделанной работе
+
+### Автор: Давлетшин Алмаз Раисович
+Ссылка на репозиторий с уроком про животных: https://github.com/Gipnokot/wild_animals_repo
+
+#### Ход работы:
 git clone https://github.com/smartiqaorg/geometric_lib;
 cd geometric_lib;
 git checkout develop;
